@@ -1,0 +1,20 @@
+# Good for clear blue skies.
+
+name: Blue Sky
+film: NostalgicNeg
+grain: Off
+color_chrome: Strong
+color_chrome_blue: Strong
+smooth_skin: Off
+white_balance: !Shade
+white_balance_red: 0
+white_balance_blue: 0
+dynamic_range: DR400
+dynamic_range_priority: Off
+exposure: 0
+highlight: -2
+shadow: -1
+color: +2
+sharpness: 0
+clarity: 0
+high_iso_nr: -4
