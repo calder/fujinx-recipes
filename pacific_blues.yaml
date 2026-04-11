@@ -2,6 +2,7 @@
 # Source: https://fujixweekly.com/2022/12/06/pacific-blues-fujifilm-x-t5-x-trans-v-film-simulation-recipe/
 #
 # Tweaks:
+# - Exposure 0 to reduce bleaching.
 # - Clarity 0 for speed.
 
 name: Pacific Blues
@@ -14,7 +15,7 @@ white_balance_red: +1
 white_balance_blue: -3
 dynamic_range: DR400
 dynamic_range_priority: Off
-exposure: +2/3
+exposure: 0
 highlight: -2
 shadow: +3
 color: +4
