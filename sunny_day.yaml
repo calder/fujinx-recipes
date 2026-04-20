@@ -1,0 +1,17 @@
+name: Sunny Day
+film: NostalgicNeg
+grain: WeakSmall
+color_chrome: Strong
+color_chrome_blue: Strong
+white_balance: Shade
+white_balance_red: -2
+white_balance_blue: 0
+dynamic_range: DR100
+dynamic_range_priority: Off
+exposure: 0
+highlight: -2
+shadow: -1
+color: +2
+sharpness: 0
+clarity: 0
+high_iso_nr: -4
